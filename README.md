@@ -1,5 +1,9 @@
 # Philosophers - 100/100
 
+Not entirely sure what's going on with my timestamp here, you'll see what I mean
+if you compile and run, but it passed soooo
+...
+
 ## Stuff I was reading
 - [Wikipedia](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
 - [Philosophers Resources](https://philosophers.simple.ink/)
